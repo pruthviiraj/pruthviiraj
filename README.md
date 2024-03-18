@@ -1,5 +1,5 @@
 
-# Pruthvi
+# Pruthvi Raj, Pudi
 Hi there, Welcome to my GitHub, I'm Pruthvi Raj
 
 I am currently pursuing my Master's in Data Science with a focus on Machine Learning at Pace University's Seidenberg School of Computer Science and Information Systems. My journey into the world of data and analytics began during my Bachelor's in Aeronautical Engineering, sparking a passion that continues to drive me forward.
