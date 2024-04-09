@@ -6,7 +6,7 @@ I am currently pursuing my Master's in Data Science with a focus on Machine Lear
 
 ## 🚀 About Me
 
-- 💻 Skilled in Python, SQL, R, PostgreSQL, MySQL, and Tableau.
+- 💻 Skilled in Python, SQL, PostgreSQL, and Power BI.
 - 🔍 Experienced at Amazon and Accenture, honing problem-solving and process improvement skills.
 - 🤝 Proficient in team management and event planning.
 - 📊 Passionate about leveraging data science for informed decision-making.
