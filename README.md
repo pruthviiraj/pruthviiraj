@@ -1,11 +1,13 @@
 
 # Pruthvi Raj, Pudi
-Hi there, Welcome to my GitHub, I'm Pruthvi Raj
 
-I am currently pursuing my Master's in Data Science with a focus on Machine Learning at Pace University's Seidenberg School of Computer Science and Information Systems. My journey into the world of data and analytics began during my Bachelor's in Aeronautical Engineering, sparking a passion that continues to drive me forward.
+Hi there 👋🏻, Welcome to my GitHub, You can call me Pruthvi
+
+I am currently pursuing my Master's in Data Science at Pace University's Seidenberg School of Computer Science and Information Systems. My journey into the world of data and analytics began during my Bachelor's in Aeronautical Engineering, sparking a passion that continues to drive me forward to build data-driven solutions.
 
 ## 🚀 About Me
 
+- ⏳ Currently working on a Movie Recommendation System.
 - 💻 Skilled in Python, SQL, PostgreSQL, and Power BI.
 - 🔍 Experienced at Amazon and Accenture, honing problem-solving and process improvement skills.
 - 🤝 Proficient in team management and event planning.
@@ -13,7 +15,7 @@ I am currently pursuing my Master's in Data Science with a focus on Machine Lear
 
 ## 📫 Connect with Me
 
-I'm always open to discussing opportunities and collaborations in the field of data science and machine learning. Feel free to reach out to me!
+I'm always open to discussing opportunities and collaborations in the fields of data science, data analytics, and machine learning. Feel free to reach out to me!
 
 [![Linkedin: YourLinkedIn](https://img.shields.io/badge/-YourLinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YourLinkedIn)](www.linkedin.com/in/pruthvirajpudi)
 
