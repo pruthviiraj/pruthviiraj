@@ -1,38 +1,35 @@
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pruthvi
 
-# Pruthvi Raj, Pudi
+Data Analyst 
+------------  
+Motivated and detail-oriented data analyst with 3.5 years of professional experience in customer query resolution, ticket management, quality audits, and providing process training to associates. Recently completed a Master's in Data Science, building expertise in Python, SQL, Excel, and Power BI. Skilled in data handling, process optimization, and driving operational efficiency, I excel at analyzing data to uncover actionable insights and support decision-making. Actively seeking a role in the data field to leverage my technical skills and professional experience to deliver impactful results.  
 
-Hi there 👋🏻, Welcome to my GitHub, You can call me Pruthvi
+* 🌍  I'm based in New Jersey
+* ✉️  You can contact me at [pruthvirajpudi@gamil.com](mailto:pruthvirajpudi@gamil.com)
+* 🚀  I'm currently working on [Crating Sales Dashboard using Tableau](http://-)
+* 🧠  I'm learning Google Data Analytics Certification
+* 🤝  I'm open to collaborating on Finance & Health Care Projects
+* ⚡  I found of Chocolate's but No sugar's
 
-I am currently pursuing my Master's in Data Science at Pace University's Seidenberg School of Computer Science and Information Systems. My journey into the world of data and analytics began during my Bachelor's in Aeronautical Engineering, sparking a passion that continues to drive me forward to build data-driven solutions.
-
-## 🚀 About Me
-
-- ⏳ Currently working on a Movie Recommendation System.
-- 💻 Skilled in Python, SQL, PostgreSQL, and Power BI.
-- 🔍 Experienced at Amazon and Accenture, honing problem-solving and process improvement skills.
-- 🤝 Proficient in team management and event planning.
-- 📊 Passionate about leveraging data science for informed decision-making.
-
-## 📫 Connect with Me
-
-I'm always open to discussing opportunities and collaborations in the fields of data science, data analytics, and machine learning. Feel free to reach out to me!
-
-[![Linkedin: YourLinkedIn](https://img.shields.io/badge/-YourLinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YourLinkedIn)](www.linkedin.com/in/pruthvirajpudi)
+<a href="https://www.github.com/pruthviiraj" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/pruthviiraj?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pruthviiraj&label=Profile%20views&color=0e75b6&style=flat" alt="pruthviiraj" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pruthviiraj" alt="pruthviiraj" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### Skills  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://framer.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/framer-colored.svg" width="36" height="36" alt="Framer" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a> </p> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pruthviiraj&show_icons=true&locale=en&layout=compact" alt="pruthviiraj" /></p>
+### Socials  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pruthviiraj&show_icons=true&locale=en" alt="pruthviiraj" /></p>
+<p align="left"> <a href="https://www.github.com/pruthviiraj" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/pruthvirajpudi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pruthviiraj&" alt="pruthviiraj" /></p>
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/pruthviiraj"><img src="https://github-readme-stats.vercel.app/api?username=pruthviiraj&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="pruthviiraj's GitHub stats" /></a>
+<a href="http://www.github.com/pruthviiraj"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pruthviiraj&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/pruthviiraj" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruthviiraj&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
