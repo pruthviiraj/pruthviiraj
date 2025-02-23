@@ -11,7 +11,7 @@ Motivated and detail-oriented data analyst with 3.5 years of professional experi
 
 * 🌍  I'm based in New Jersey
 * ✉️  You can contact me at [pruthvirajpudi@gamil.com](mailto:pruthvirajpudi@gamil.com)
-* 🚀  I'm currently working on [Crating Sales Dashboard using Tableau](http://-)
+* 🚀  I'm currently working on [TruBridge Healthcare Data Analytics](http://-)
 * 🧠  I'm learning Google Data Analytics Certification
 * 🤝  I'm open to collaborating on Finance & Health Care Projects
 * ⚡  I found of Chocolate's but No sugar's
