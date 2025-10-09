@@ -6,10 +6,9 @@ Motivated and detail-oriented data analyst with 3.5 years of professional experi
 
 * 🌍  I'm based in New Jersey
 * ✉️  You can contact me at [pruthvirajpudi@gamil.com](mailto:pruthvirajpudi@gamil.com)
-* 🚀  I'm currently working on [TruBridge Healthcare Data Analytics](http://-)
+* 🚀  I'm currently working on building a SQL Data Warehouse Project
 * 🧠  I'm learning Google Data Analytics Certification
 * 🤝  I'm open to collaborating on Finance & Health Care Projects
-* ⚡  I found of Chocolate's but No sugar's
 
 
 <a href="https://www.github.com/pruthviiraj" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/pruthviiraj?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
