@@ -1,31 +1,86 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pruthvi
+<h1 align="center">Hi 👋, I'm Pruthvi Raj</h1>
+<h3 align="center">Data Analyst • Business Analyst • Data Science Graduate</h3>
 
-Data Analyst 
-------------  
-Motivated and detail-oriented data analyst with 3.5 years of professional experience in customer query resolution, ticket management, quality audits, and providing process training to associates. Recently completed a Master's in Data Science, building expertise in Python, SQL, Excel, and Power BI. Skilled in data handling, process optimization, and driving operational efficiency, I excel at analyzing data to uncover actionable insights and support decision-making, actively seeking a role in the data field to leverage my technical skills and professional experience to deliver impactful results.  
+<p align="center">
+  <a href="https://www.linkedin.com/in/pruthvirajpudi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:pruthvirajpudi@gmail.com"><img src="https://img.shields.io/badge/Email-Me-orange?style=for-the-badge"></a>
+  <a href="https://www.datascienceportfol.io/pruthvirajpudi"><img src="https://img.shields.io/badge/Portfolio-Website-6f42c1?style=for-the-badge"></a>
+</p>
 
-* 🌍  I'm based in New Jersey
-* ✉️  You can contact me at [pruthvirajpudi@gamil.com](mailto:pruthvirajpudi@gamil.com)
-* 🚀  I'm currently working on building a SQL Data Warehouse Project
-* 🧠  I'm learning Google Data Analytics Certification
-* 🤝  I'm open to collaborating on Finance & Health Care Projects
+---
+
+## 👨‍💻 About Me
+
+Motivated and detail-oriented **Data Analyst** with 3.5 years of experience in risk operations, fraud investigations, ticket analysis, and quality auditing at **Amazon & Accenture**.
+
+Recently completed my **Master’s in Data Science**, now building strong hands-on skills in:
+
+- SQL (PostgreSQL, MySQL, SQL Server)  
+- Python (pandas, numpy, matplotlib, scikit-learn)  
+- Excel (Power Query, Power Pivot)  
+- Power BI & Tableau  
+- Data modeling, ETL, dashboard design, automation  
+
+I love transforming raw data into dashboards, insights, and business recommendations.
+
+Currently seeking **Data Analyst / Business Analyst / Product Analyst** roles.
+
+## 🚀 What I'm Working On
+
+- 🏗️ Building a **SQL Data Warehouse Project** (Bronze → Silver → Gold)  
+- 📊 Designing **Power BI dashboards** (sales, finance, healthcare, e-commerce)  
+- 🧹 Practicing end-to-end data cleaning in SQL + Python  
+- ☁️ Learning **Google Data Analytics** & Azure fundamentals  
+- 🤝 Open to collaborating on **Finance & Healthcare analytics**  
 
 
-<a href="https://www.github.com/pruthviiraj" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/pruthviiraj?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+## 📚 Skills & Tools
 
-### Skills
+### **Languages & Databases**
+<p>
+  <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+### **Analytics & Visualization**
+<p>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+</p>
+
+### **Tech Stack & Tools**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+</p>
 
 
-<p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://framer.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/framer-colored.svg" width="36" height="36" alt="Framer" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a> </p> 
+## 📈 GitHub Stats
 
-### Socials  
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub_Profile_Views-?style=for-the-badge&color=blue&logo=github" />
+</p>
 
-<p align="left"> <a href="https://www.github.com/pruthviiraj" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/pruthvirajpudi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Total_Repos-12-blue?style=for-the-badge&logo=github" />
+</p>
 
-### Badges
+<p align="center">
+  <img src="https://img.shields.io/badge/Followers-2-green?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Following-4-yellow?style=for-the-badge&logo=github" />
+</p>
 
-<b>My GitHub Stats</b>
+## 📬 Let’s Connect
 
-<a href="http://www.github.com/pruthviiraj"><img src="https://github-readme-stats.vercel.app/api?username=pruthviiraj&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="pruthviiraj's GitHub stats" /></a>
-<a href="http://www.github.com/pruthviiraj"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pruthviiraj&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-<a href="https://github.com/pruthviiraj" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruthviiraj&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+- 🌍 Based in **New Jersey, USA**  
+- 📧 Email: **pruthvirajpudi@gmail.com**  
+- 💼 LinkedIn: **linkedin.com/in/pruthvirajpudi**  
+- 🌐 Portfolio: **datascienceportfol.io/pruthvirajpudi**
+
+If you're a recruiter, hiring manager, or fellow data practitioner —  
+**I'd love to connect and collaborate! 🚀**
