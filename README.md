@@ -25,23 +25,18 @@ I love transforming raw data into dashboards, insights, and business recommendat
 
 Currently seeking **Data Analyst / Business Analyst / Product Analyst** roles.
 
-## 🚀 What I'm Working On
+## What I'm Working On  
+- 📚 30 Days of SQL + HackerRank practice  
+- 🏗 Building a SQL Data Warehouse (Bronze → Silver → Gold)  
+- 📊 Creating Power BI dashboards (Sales, Finance, Healthcare)  
+- 🤖 Exploring automation workflows with Python & Cloud  
+ 
 
-- 🏗️ Building a **SQL Data Warehouse Project** (Bronze → Silver → Gold)  
-- 📊 Designing **Power BI dashboards** (sales, finance, healthcare, e-commerce)  
-- 🧹 Practicing end-to-end data cleaning in SQL + Python  
-- ☁️ Learning **Google Data Analytics** & Azure fundamentals  
-- 🤝 Open to collaborating on **Finance & Healthcare analytics**  
+## Skills & Tools 
 
-
-## 📚 Skills & Tools
-
-### **Languages & Databases**
-<p>
-  <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+### Languages & Databases  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,postgresql,mysql,sqlite,azure,aws" />
 </p>
 
 ### **Analytics & Visualization**
@@ -60,7 +55,7 @@ Currently seeking **Data Analyst / Business Analyst / Product Analyst** roles.
 </p>
 
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub_Profile_Views-?style=for-the-badge&color=blue&logo=github" />
@@ -75,7 +70,7 @@ Currently seeking **Data Analyst / Business Analyst / Product Analyst** roles.
   <img src="https://img.shields.io/badge/Following-4-yellow?style=for-the-badge&logo=github" />
 </p>
 
-## 📬 Let’s Connect
+## Let’s Connect
 
 - 🌍 Based in **New Jersey, USA**  
 - 📧 Email: **pruthvirajpudi@gmail.com**  
@@ -83,4 +78,4 @@ Currently seeking **Data Analyst / Business Analyst / Product Analyst** roles.
 - 🌐 Portfolio: **datascienceportfol.io/pruthvirajpudi**
 
 If you're a recruiter, hiring manager, or fellow data practitioner —  
-**I'd love to connect and collaborate! 🚀**
+**I'd love to connect and collaborate! **
