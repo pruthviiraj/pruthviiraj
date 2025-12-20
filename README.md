@@ -1,13 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pruthvi Raj</h1>
-<h3 align="center">Data Analyst • Business Analyst • Data Science Graduate</h3>
+![alt text](assets/banner.png)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/pruthvirajpudi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:pruthvirajpudi@gmail.com"><img src="https://img.shields.io/badge/Email-Me-orange?style=for-the-badge"></a>
-  <a href="https://www.datascienceportfol.io/pruthvirajpudi"><img src="https://img.shields.io/badge/Portfolio-Website-6f42c1?style=for-the-badge"></a>
-</p>
-
----
 
 ## 👨‍💻 About Me
 
@@ -19,7 +11,7 @@ Recently completed my **Master’s in Data Science**, now building strong hands-
 - Python (pandas, numpy, matplotlib, scikit-learn)  
 - Excel (Power Query, Power Pivot)  
 - Power BI & Tableau  
-- Data modeling, ETL, dashboard design, automation  
+- Data modeling, ETL, dashboard design, automation
 
 I love transforming raw data into dashboards, insights, and business recommendations.
 
@@ -57,18 +49,23 @@ Currently seeking **Data Analyst / Business Analyst / Product Analyst** roles.
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub_Profile_Views-?style=for-the-badge&color=blue&logo=github" />
-</p>
-
-<p align="center">
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=pruthviiraj&label=Profile%20Views&color=007ACC&style=flat-square&style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Total_Repos-12-blue?style=for-the-badge&logo=github" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Followers-2-green?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Following-4-yellow?style=for-the-badge&logo=github" />
 </p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pruthviiraj&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=718096&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruthviiraj&layout=compact&theme=transparent&hide_border=true&title_color=007ACC&text_color=718096&langs_count=6" width="48%" />
+
+  <br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pruthviiraj&theme=react-dark&bg_color=00000000&hide_border=true&area=true&color=007ACC&height=300" width="100%" />
+</div>
+
+
 
 ## Let’s Connect
 
@@ -76,6 +73,10 @@ Currently seeking **Data Analyst / Business Analyst / Product Analyst** roles.
 - 📧 Email: **pruthvirajpudi@gmail.com**  
 - 💼 LinkedIn: **linkedin.com/in/pruthvirajpudi**  
 - 🌐 Portfolio: **datascienceportfol.io/pruthvirajpudi**
+- If you're a recruiter, hiring manager, or fellow data practitioner — *I'd love to connect and collaborate!*
 
-If you're a recruiter, hiring manager, or fellow data practitioner —  
-**I'd love to connect and collaborate! **
+<p align="center">
+  <a href="https://www.linkedin.com/in/pruthvirajpudi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:pruthvirajpudi@gmail.com"><img src="https://img.shields.io/badge/Email-Me-orange?style=for-the-badge"></a>
+  <a href="https://www.datascienceportfol.io/pruthvirajpudi"><img src="https://img.shields.io/badge/Portfolio-Website-6f42c1?style=for-the-badge"></a>
+</p>
