@@ -57,11 +57,6 @@ Currently seeking **Data Analyst / Business Analyst / Product Analyst** roles.
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pruthviiraj&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=718096&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruthviiraj&layout=compact&theme=transparent&hide_border=true&title_color=007ACC&text_color=718096&langs_count=6" width="48%" />
-
-  <br/>
-
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pruthviiraj&theme=react-dark&bg_color=00000000&hide_border=true&area=true&color=007ACC&height=300" width="100%" />
 </div>
 
