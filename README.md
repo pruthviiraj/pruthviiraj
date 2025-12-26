@@ -61,7 +61,6 @@ Currently seeking **Data Analyst / Business Analyst / Product Analyst** roles.
 </div>
 
 
-
 ## Let’s Connect
 
 - 🌍 Based in **New Jersey, USA**  
