@@ -12,6 +12,7 @@ Recently completed my **Master’s in Data Science**, now building strong hands-
 - Excel (Power Query, Power Pivot)  
 - Power BI & Tableau  
 - Data modeling, ETL, dashboard design, automation
+- Databricks
 
 I love transforming raw data into dashboards, insights, and business recommendations.
 
