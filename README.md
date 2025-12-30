@@ -3,7 +3,7 @@
 
 ## 👨‍💻 About Me
 
-Motivated and detail-oriented **Data Analyst** with 3.5 years of experience in risk operations, fraud investigations, ticket analysis, and quality auditing at **Amazon & Accenture**.
+Motivated and detail-oriented **Data Analyst** & an aspiring **Data Engineer** with 3.5 years of experience in risk operations, fraud investigations, ticket analysis, and quality auditing at **Amazon & Accenture**.
 
 Recently completed my **Master’s in Data Science**, now building strong hands-on skills in:
 
