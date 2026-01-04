@@ -9,7 +9,7 @@ Recently completed my **Master’s in Data Science**, now building strong hands-
 
 - SQL (PostgreSQL, MySQL, SQL Server)  
 - Python (pandas, numpy, matplotlib, scikit-learn)  
-- Excel (Power Query, Power Pivot)  
+- Excel (Power Query, Power Pivot)
 - Power BI & Tableau  
 - Data modeling, ETL, dashboard design, automation
 - Databricks
