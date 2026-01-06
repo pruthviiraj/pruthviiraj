@@ -23,7 +23,6 @@ Currently seeking **Data Analyst / Business Analyst / Product Analyst** roles.
 - 📊 Creating Power BI dashboards (Sales, Finance, Healthcare)  
 - 🤖 Exploring automation workflows with Python & Cloud  
  
-
 ## Skills & Tools 
 
 ### Languages & Databases  
