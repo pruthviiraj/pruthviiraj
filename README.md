@@ -58,7 +58,6 @@ Currently seeking **Data Analyst / Business Analyst / Product Analyst** roles.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pruthviiraj&theme=react-dark&bg_color=00000000&hide_border=true&area=true&color=007ACC&height=300" width="100%" />
 </div>
 
-
 ## Let’s Connect
 
 - 🌍 Based in **New Jersey, USA**  
