@@ -7,7 +7,7 @@ Motivated and detail-oriented **Data Analyst** & an aspiring **Data Engineer** w
 Recently completed my **Master’s in Data Science**, now building strong hands-on skills in:
 
 - SQL (PostgreSQL, MySQL, SQL Server)  
-- Python (pandas, numpy, matplotlib, scikit-learn)  
+- Python (pandas, numpy, matplotlib, scikit-learn) 
 - Excel (Power Query, Power Pivot)
 - Power BI & Tableau  
 - Data modeling, ETL, dashboard design, automation
