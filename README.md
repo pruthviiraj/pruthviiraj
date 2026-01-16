@@ -1,5 +1,4 @@
 ![alt text](assets/banner.png)
-
 ## 👨‍💻 About Me
 
 Motivated and detail-oriented **Data Analyst** & an aspiring **Data Engineer** with 3.5 years of experience in risk operations, fraud investigations, ticket analysis, and quality auditing at **Amazon & Accenture**.
