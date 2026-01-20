@@ -20,8 +20,8 @@ Currently seeking **Data Analyst / Business Analyst / Product Analyst** roles.
 - 📚 30 Days of SQL + HackerRank practice  
 - 🏗 Building a SQL Data Warehouse (Bronze → Silver → Gold)  
 - 📊 Creating Power BI dashboards (Sales, Finance, Healthcare)  
-- 🤖 Exploring automation workflows with Python & Cloud  
- 
+- 🤖 Exploring automation workflows with Python & Cloud
+
 ## Skills & Tools 
 
 ### Languages & Databases  
