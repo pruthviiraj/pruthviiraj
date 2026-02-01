@@ -1,20 +1,21 @@
-![alt text](assets/banner.png)
+![alt text](assets/banner_de.png)
 ## 👨‍💻 About Me
 
-Motivated and detail-oriented **Data Analyst** & an aspiring **Data Engineer** with 3.5 years of experience in risk operations, fraud investigations, ticket analysis, and quality auditing at **Amazon & Accenture**.
+Motivated and detail-oriented **Analytics Engineer** & a  **Data Engineer** with 4 years of experience in risk operations, fraud investigations, ticket analysis, and quality auditing at **Amazon & Accenture**.
 
 Recently completed my **Master’s in Data Science**, now building strong hands-on skills in:
 
 - SQL (PostgreSQL, MySQL, SQL Server)  
-- Python (pandas, numpy, matplotlib, scikit-learn) 
-- Excel (Power Query, Power Pivot)
-- Power BI & Tableau  
+- Python (pandas, numpy, matplotlib, scikit-learn)   
 - Data modeling, ETL, dashboard design, automation
 - Databricks
+- PySpark
+- Excel (Power Query, Power Pivot)
+- Power BI & Tableau
 
-I love transforming raw data into dashboards, insights, and business recommendations.
+I love building data pipelines and transforming raw data into dashboards, insights, and business recommendations.
 
-Currently seeking **Data Analyst / Business Analyst / Product Analyst** roles.
+Currently seeking **Analytics Engineer**, **Data Engineer**, or **Data Analyst** roles.
 
 ## What I'm Working On  
 - 📚 30 Days of SQL + HackerRank practice  
