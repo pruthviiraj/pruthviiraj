@@ -63,11 +63,9 @@ Currently seeking **Analytics Engineer**, **Data Engineer**, or **Data Analyst**
 - 🌍 Based in **New Jersey, USA**  
 - 📧 Email: **pruthvirajpudi@gmail.com**  
 - 💼 LinkedIn: **linkedin.com/in/pruthvirajpudi**  
-- 🌐 Portfolio: **datascienceportfol.io/pruthvirajpudi**
 - If you're a recruiter, hiring manager, or fellow data practitioner — *I'd love to connect and collaborate!*
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pruthvirajpudi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:pruthvirajpudi@gmail.com"><img src="https://img.shields.io/badge/Email-Me-orange?style=for-the-badge"></a>
-  <a href="https://www.datascienceportfol.io/pruthvirajpudi"><img src="https://img.shields.io/badge/Portfolio-Website-6f42c1?style=for-the-badge"></a>
 </p>
