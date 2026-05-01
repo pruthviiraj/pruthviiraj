@@ -60,6 +60,11 @@ Targeting **Data Analyst**, **Business Analyst**, and **Operations Analyst** rol
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
+**AI & Productivity**
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-1F3864?style=flat-square&logoColor=white)
+
 **Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -67,6 +72,8 @@ Targeting **Data Analyst**, **Business Analyst**, and **Operations Analyst** rol
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Monday.com](https://img.shields.io/badge/Monday.com-FF3750?style=flat-square&logo=monday.com&logoColor=white)
+
+
 
 ---
 
