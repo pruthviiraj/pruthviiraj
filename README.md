@@ -70,8 +70,6 @@ Targeting **Data Analyst**, **Business Analyst**, and **Operations Analyst** rol
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Monday.com](https://img.shields.io/badge/Monday.com-FF3750?style=flat-square&logo=monday.com&logoColor=white)
 
-
-
 ---
 
 ## 📂 Featured Projects
