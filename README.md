@@ -140,7 +140,6 @@ Targeting **Data Analyst**, **Business Analyst**, and **Operations Analyst** rol
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=pruthviiraj&theme=transparent&hide_border=true&stroke=2E75B6&ring=2E75B6&fire=FF9900&currStreakLabel=2E75B6&sideLabels=888888&dates=888888)](https://git.io/streak-stats)
 
-
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pruthviiraj&theme=minimal&bg_color=00000000&hide_border=true&color=2E75B6&line=2E75B6&point=FF9900&area=true&area_color=2E75B6&radius=6)](https://github.com/pruthviiraj)
 
 </div>
