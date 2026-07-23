@@ -148,11 +148,10 @@ Targeting **Data Analyst**, **Business Analyst**, and **Operations Analyst** rol
 
 | | Project / Goal | Stack | Status | ETA |
 |---|---|---|---|---|
-| 🛒 | Olist E-Commerce — end-to-end analysis | SQL · Python · Power BI | 🔄 In Progress | Q2 2026 |
 | 🏗️ | Data Engineering Bootcamp | dbt · Airflow · ETL | 🔄 In Progress | Nov 2026 |
 | ☁️ | Azure Fundamentals — AZ-900 | Microsoft Azure | 🟡 Planned | Q3 2026 |
 | 🧠 | dbt Fundamentals Certification | dbt Core | 🟡 Planned | Q2 2026 |
-| 📚 | Daily SQL Practice | HackerRank · DataLemur | 🟢 Ongoing | — |
+| 📚 | Daily SQL Practice | HackerRank · LeetCode | 🟢 Ongoing | — |
 
 ---
 
