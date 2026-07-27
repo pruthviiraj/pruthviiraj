@@ -16,11 +16,11 @@
 ### About Me
 
 M.S. Data Science · Pace University · GPA 3.79
-Jersey City, NJ · OPT-STEM · No sponsorship needed
+Jersey City, NJ
 
-3.5 years in operations at **Amazon** and **Accenture** SLA tracking, case management, and data quality auditing. That background taught me where data breaks and why reports lie.
+Over 3 years in operations at **Amazon** and **Accenture** SLA tracking, case management, and data quality auditing. That background taught me where data breaks and why reports lie.
 
-Since my Master's, I've been building the analytical toolkit: **SQL · Power BI · Excel (Power Query, Power Pivot, DAX) · Python**
+Since my Master's, I've been building the analytical toolkit: **SQL · Power BI · Excel (Power Query, Power Pivot, DAX) · Python · ETL **
 
 > *If a number doesn't add up, I want to know why before anyone else does.*
 
