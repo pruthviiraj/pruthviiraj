@@ -20,7 +20,7 @@ Jersey City, NJ
 
 Over 3 years in operations at **Amazon** and **Accenture** SLA tracking, case management, and data quality auditing. That background taught me where data breaks and why reports lie.
 
-Since my Master's, I've been building the analytical toolkit: **SQL · Power BI · Excel (Power Query, Power Pivot, DAX) · Python · ETL **
+Since my Master's, I've been building the analytical toolkit: **SQL · Power BI · Excel (Power Query, Power Pivot, DAX) · Python · ETL**
 
 > *If a number doesn't add up, I want to know why before anyone else does.*
 
