@@ -15,8 +15,7 @@
 
 ### About Me
 
-M.S. Data Science · Pace University · GPA 3.79
-Jersey City, NJ
+M.S. Data Science · Pace University · GPA 3.79 · Jersey City, NJ
 
 Over 3 years in operations at **Amazon** and **Accenture** SLA tracking, case management, and data quality auditing. That background taught me where data breaks and why reports lie.
 
