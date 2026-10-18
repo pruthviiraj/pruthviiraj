@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="112" viewBox="0 0 120 112" role="img" aria-labelledby="title"><title id="title">Azure</title><rect x="1" y="1" width="118" height="110" rx="16" fill="#111C30" stroke="#28354D"/><rect x="33" y="12" width="54" height="54" rx="13" fill="#F8FAFC" stroke="#F8FAFC"/><svg x="43" y="22" width="34" height="34" viewBox="0 0 256 242" fill="#000" preserveAspectRatio="xMidYMid meet">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32" role="img" aria-labelledby="title"><title id="title">Azure</title><rect x="1" y="1" width="30" height="30" rx="7" fill="#F8FAFC" stroke="#E2E8F0"/><svg x="5" y="5" width="22" height="22" viewBox="0 0 256 242" fill="#000" preserveAspectRatio="xMidYMid meet">
     <title>Azure</title>
     <defs>
         <linearGradient x1="58.9717389%" y1="7.4114724%" x2="37.1905196%" y2="103.76182%" id="microsoft-azure-Azure-linearGradient-1">
@@ -24,4 +24,4 @@
 				<path d="M182.098251,8.20716985 C180.443985,3.30365177 175.845517,0.00290931225 170.670472,0.00290931225 L86.2451404,0.00290931225 C91.4198966,0.00290931225 96.0178956,3.30421162 97.6729189,8.20716985 L170.941039,225.30005 C172.18363,228.981191 171.576996,233.035501 169.311351,236.191716 C167.045705,239.34793 163.398467,241.219806 159.51326,241.219806 L243.941501,241.219806 C247.826196,241.219806 251.472566,239.346605 253.737531,236.190534 C256.002496,233.034464 256.608798,228.980705 255.366371,225.30005 L182.098251,8.20716985 Z" fill="url(#microsoft-azure-Azure-linearGradient-3)"></path>
 		</g>
 </svg>
-<text x="60" y="92" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="600" text-anchor="middle" fill="#F1F5F9">Azure</text></svg>
+</svg>
