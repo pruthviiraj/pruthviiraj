@@ -19,13 +19,19 @@ Original logo files are in `assets/icons/`; small tool icons and project cards a
 
 ## Layout
 
-The header contains the name and focus areas. Resume, LinkedIn, and email links sit directly below it. A short introduction leads into 28px tool icons and four project cards. The cards sit in two columns on desktop and stack on narrow screens. Two main stats cards follow the projects; the larger contribution chart is collapsed under Contribution history.
+The header contains the name and focus areas. Resume, LinkedIn, and email links sit directly below it. A short introduction leads into six tech categories with exactly two small icons each, followed by four project cards. The cards sit in two columns on desktop and stack on narrow screens. Two main stats cards and an animated contribution chart follow the projects.
+
+## Motion
+
+The SVGs use CSS animations supported inside README images. The header and card content enter gently, the header accent moves slowly, and one card link arrow moves at a time. Stack categories enter in pairs. Body text stays readable and no percentage claims about proficiency are used.
+
+The generated SVGs disable their animations with `prefers-reduced-motion`. Explicit static image alternatives also preserve fully visible content in SVG image renderers that do not pass that preference through. The two stats images switch to non-animated service URLs for that preference. The contribution-chart service supports reduced motion directly.
 
 ## Live GitHub visuals
 
-- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats): account overview, with the rank and star row hidden.
+- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats): animated account overview, with the rank and star row hidden.
 - [GitHub Readme Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats): contribution totals and streaks.
-- [GitHub Profile Summary Cards](https://github.com/vn7n24fzkq/github-profile-summary-cards): the contribution chart.
+- [GitHub Profile Summary Cards](https://github.com/vn7n24fzkq/github-profile-summary-cards): the contribution chart, with its documented `draw` animation.
 
 All widgets use the username `pruthviiraj`. They query GitHub through their own services and cache their responses, so totals can differ by reporting period and refresh time. These are activity metrics, not measures of skill. No fabricated counts or proficiency percentages are used.
 
