@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(max-width: 600px)" srcset="./assets/profile-cover-mobile.svg" />
-    <img src="./assets/profile-cover.svg" width="100%" alt="Pruthvi Raj Pudi. Data analytics and data engineering. Reliable foundations. Meaningful insights." />
+    <source media="(max-width: 600px)" srcset="./assets/portfolio-cover-mobile.svg" />
+    <img src="./assets/portfolio-cover.svg" width="100%" alt="Pruthvi Raj Pudi. Data analytics and data engineering. Reliable foundations. Meaningful insights." />
   </picture>
 </p>
 
