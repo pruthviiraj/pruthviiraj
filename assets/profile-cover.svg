@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="520" viewBox="0 0 1440 520" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Pruthvi Raj Pudi — Data Analytics &amp; Data Engineering</title>
+  <desc id="desc">From raw data to reliable decisions. A midnight navy cover with ivory typography, teal accents, and a diagram connecting data sources to models and insights.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1440" y2="520" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#101F30"/>
+      <stop offset="1" stop-color="#08131E"/>
+    </linearGradient>
+    <linearGradient id="line" x1="810" y1="170" x2="1320" y2="390" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6EDCC4"/>
+      <stop offset="1" stop-color="#6EDCC4" stop-opacity=".12"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#B6D9D5" stroke-opacity=".045"/>
+    </pattern>
+  </defs>
+  <rect width="1440" height="520" rx="20" fill="url(#bg)"/>
+  <rect x="786" width="654" height="520" fill="url(#grid)"/>
+  <path d="M64 0H1376" stroke="#6EDCC4" stroke-width="3"/>
+  <rect x="64" y="49" width="42" height="42" rx="12" stroke="#6EDCC4" stroke-opacity=".55"/>
+  <text x="85" y="76" text-anchor="middle" fill="#6EDCC4" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">PR</text>
+  <text x="123" y="77" fill="#EEEFE8" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="600" letter-spacing=".2">PRUTHVI RAJ PUDI</text>
+  <text x="1376" y="76" text-anchor="end" fill="#94ABA9" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="2.4">DATA / DECISIONS / IMPACT</text>
+  <text x="64" y="151" fill="#6EDCC4" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" letter-spacing="2.5">DATA ANALYTICS &amp; DATA ENGINEERING</text>
+  <text x="59" y="243" fill="#F3F0E7" font-family="Georgia, 'Times New Roman', serif" font-size="77" letter-spacing="-2">From raw data</text>
+  <text x="59" y="330" fill="#F3F0E7" font-family="Georgia, 'Times New Roman', serif" font-size="77" letter-spacing="-2">to reliable decisions.</text>
+  <text x="64" y="391" fill="#A8B8C2" font-family="Arial, Helvetica, sans-serif" font-size="20">Thoughtful analysis. Dependable foundations.</text>
+  <path d="M64 441H737" stroke="#314251"/>
+  <text x="64" y="477" fill="#8296A4" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="1.8">SQL</text>
+  <circle cx="113" cy="472" r="2" fill="#6EDCC4"/>
+  <text x="132" y="477" fill="#8296A4" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="1.8">PYTHON</text>
+  <circle cx="221" cy="472" r="2" fill="#6EDCC4"/>
+  <text x="240" y="477" fill="#8296A4" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="1.8">POWER BI</text>
+  <circle cx="351" cy="472" r="2" fill="#6EDCC4"/>
+  <text x="370" y="477" fill="#8296A4" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="1.8">SNOWFLAKE</text>
+  <circle cx="508" cy="472" r="2" fill="#6EDCC4"/>
+  <text x="527" y="477" fill="#8296A4" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="1.8">DBT</text>
+  <g stroke="url(#line)" stroke-width="1.5">
+    <path d="M908 206H933Q956 206 956 229V256H998"/>
+    <path d="M908 300H933Q956 300 956 277V256"/>
+    <path d="M1138 256H1174Q1194 256 1194 276V341H1232"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="808" y="169" width="100" height="74" rx="12" fill="#122735" stroke="#354C58"/>
+    <path d="M831 190H848M831 198H861M831 206H853" stroke="#88A9B5" stroke-width="2" stroke-linecap="round"/>
+    <text x="830" y="227" fill="#B7C8CC" font-size="11" letter-spacing="1.2">SOURCES</text>
+    <rect x="808" y="263" width="100" height="74" rx="12" fill="#122735" stroke="#354C58"/>
+    <path d="M831 285H861M831 293H848M831 301H856" stroke="#88A9B5" stroke-width="2" stroke-linecap="round"/>
+    <text x="830" y="321" fill="#B7C8CC" font-size="11" letter-spacing="1.2">EVENTS</text>
+    <rect x="998" y="204" width="140" height="104" rx="16" fill="#153238" stroke="#6EDCC4" stroke-opacity=".7"/>
+    <path d="m1048 229 20-9 20 9-20 9-20-9Zm0 10 20 9 20-9m-40 10 20 9 20-9" stroke="#6EDCC4" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="1068" y="284" text-anchor="middle" fill="#C7F1E7" font-size="12" letter-spacing="1.6">MODELS</text>
+    <rect x="1232" y="283" width="144" height="116" rx="16" fill="#142734" stroke="#49606C"/>
+    <path d="M1255 346V323M1272 346V311M1289 346V318M1306 346V302M1323 346V293" stroke="#6EDCC4" stroke-width="7" stroke-linecap="round"/>
+    <text x="1254" y="377" fill="#D5DDD8" font-size="12" letter-spacing="1.5">INSIGHTS</text>
+    <circle cx="956" cy="256" r="4" fill="#6EDCC4"/>
+    <circle cx="1194" cy="299" r="4" fill="#C7AF7B"/>
+    <text x="808" y="441" fill="#657D8C" font-size="12" letter-spacing="1.8">INGEST</text>
+    <text x="1068" y="441" text-anchor="middle" fill="#657D8C" font-size="12" letter-spacing="1.8">MODEL</text>
+    <text x="1376" y="441" text-anchor="end" fill="#657D8C" font-size="12" letter-spacing="1.8">UNDERSTAND</text>
+  </g>
+</svg>
