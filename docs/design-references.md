@@ -2,7 +2,7 @@
 
 ## Layout
 
-The profile gives equal space to data analytics and data engineering. It follows an editorial flow rather than a card grid: an abstract source-to-reporting visual, short introduction, a single featured Olist project, three concise selected-project notes, a compact paired-tool table, and matching activity panels.
+The profile gives equal space to data analytics and data engineering. It follows an editorial flow rather than a card grid: an abstract source-to-reporting visual, short introduction, a single featured Olist project, three concise selected-project notes, six paired-tool lines, and matching activity panels.
 
 Portfolio copy is native Markdown and HTML. The only text inside visual assets is decorative workflow labeling. This keeps the actual descriptions readable in GitHub's light and dark themes and on phones.
 
