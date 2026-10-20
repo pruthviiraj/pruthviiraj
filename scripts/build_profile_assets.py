@@ -133,7 +133,7 @@ def pill(name,label,width,accent):
 pill('resume','Resume',150,'#38BDF8')
 pill('email','Email',136,'#A78BFA')
 pill('linkedin','LinkedIn',158,'#60A5FA')
-pill('github','GitHub',150,'#F8FAFC')
+pill('portfolio','Portfolio',170,'#F8FAFC')
 
 SKILLS=[('python','Python'),('microsoft-azure','Azure'),('snowflake-icon','Snowflake'),('dbt-icon','dbt'),('sql-server','SQL Server'),('postgresql','PostgreSQL'),('microsoft-power-bi','Power BI'),('excel','Excel'),('pandas-icon','pandas'),('looker-icon','Looker Studio'),('git-icon','Git'),('github-icon','GitHub')]
 def skill_chips(offset):

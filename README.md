@@ -7,7 +7,7 @@
   <a href="./assets/PruthviRajPudiResume.pdf"><img src="./assets/pills/resume.svg" height="42" alt="Open resume" /></a>&nbsp;
   <a href="mailto:pruthvirajpudi@gmail.com"><img src="./assets/pills/email.svg" height="42" alt="Send email" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/pruthvirajpudi/"><img src="./assets/pills/linkedin.svg" height="42" alt="Open LinkedIn" /></a>&nbsp;
-  <a href="https://github.com/pruthviiraj"><img src="./assets/pills/github.svg" height="42" alt="Open GitHub portfolio" /></a>
+  <a href="https://github.com/pruthviiraj"><img src="./assets/pills/portfolio.svg" height="42" alt="Open portfolio" /></a>
 </p>
 
 ## About
