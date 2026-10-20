@@ -101,33 +101,42 @@ for theme, background, line, accent, muted in [
  body+=txt(218,80,'SOURCE',16,muted,600,'middle')+txt(620,80,'MODELS',16,muted,600,'middle')+txt(962,187,'REPORTING',16,muted,600,'middle')
  write(f'profile-visual-{theme}.svg',1180,250,'Abstract data workflow from sources to models and reporting.',body)
 
-# Motion system: a controlled 600ms header reveal and one continuous skill
-# ribbon. Text outside these visuals remains native Markdown for accessibility.
-PREMIUM_MOTION="""<style>
-@keyframes rise{0%{opacity:0;transform:translateY(18px)}100%{opacity:1;transform:translateY(0)}}
-@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-7px)}}
-@keyframes blink{0%,100%{opacity:.35}50%{opacity:1}}
-@keyframes marquee{from{transform:translateX(0)}to{transform:translateX(-2016px)}}
+# Premium motion system: each visual uses a 600ms reveal and low-amplitude
+# parallel movement. There are no large container cards or decorative sweeps.
+MOTION="""<style>
+@keyframes rise{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:translateY(0)}}
+@keyframes lane{0%,100%{transform:translateX(0)}50%{transform:translateX(28px)}}
+@keyframes glow{0%,100%{opacity:.35}50%{opacity:1}}
+@keyframes draw{from{stroke-dashoffset:160}to{stroke-dashoffset:0}}
 .rise{animation:rise .6s cubic-bezier(.2,0,0,1) both}.d1{animation-delay:.10s}.d2{animation-delay:.20s}.d3{animation-delay:.30s}
-.float{animation:float 4s cubic-bezier(.4,0,.2,1) infinite}.pulse{animation:blink 2.4s ease-in-out infinite}
-.marquee{animation:marquee 24s linear infinite}
-@media(prefers-reduced-motion:reduce){.rise,.float,.pulse,.marquee{animation:none!important;transform:none;opacity:1}}
+.lane{animation:lane 5s cubic-bezier(.4,0,.2,1) infinite}.l2{animation-delay:.55s}.l3{animation-delay:1.1s}.glow{animation:glow 2.8s ease-in-out infinite}.draw{stroke-dasharray:160;animation:draw 1.1s cubic-bezier(.2,0,0,1) both}
+@media(prefers-reduced-motion:reduce){.rise,.lane,.glow,.draw{animation:none!important;transform:none;opacity:1;stroke-dashoffset:0}}
 </style>"""
 
-body=PREMIUM_MOTION+'<rect width="1180" height="430" rx="22" fill="#101827"/><path d="M0 350C220 280 350 460 580 370S940 270 1180 350V430H0Z" fill="#15223A"/>'
-body+='<g opacity=".55"><path d="M650 70h430M650 150h430M650 230h430M650 310h430" stroke="#263651" stroke-width="1"/><path d="M760 40v300M870 40v300M980 40v300" stroke="#263651" stroke-width="1"/></g>'
-body+=txt(70,74,'DATA PORTFOLIO',15,'#93C5FD',700)+f'<g class="rise">'+txt(70,166,'Pruthvi Raj Pudi',58,'#F8FAFC',700)+f'</g>'
-body+=f'<g class="rise d1">'+txt(70,218,'Data Analytics  ·  Data Engineering',24,'#CBD5E1',500)+f'</g>'
-body+=f'<g class="rise d2">'+txt(70,270,'From operational data to clear reporting.',22,'#A6B4CB',400)+f'</g>'
-body+=f'<g class="rise d3">'+txt(70,332,'E-commerce  /  Sales  /  Workforce',16,'#93C5FD',600)+f'</g>'
-body+='<g class="float"><rect x="706" y="107" width="138" height="98" rx="16" fill="#15223A" stroke="#60A5FA" stroke-width="2"/><circle cx="744" cy="143" r="12" fill="#60A5FA"/><path d="M768 137h46m-46 16h31" stroke="#CBD5E1" stroke-width="5" stroke-linecap="round"/></g>'
-body+='<g class="float" style="animation-delay:.5s"><rect x="895" y="175" width="150" height="108" rx="16" fill="#15223A" stroke="#A78BFA" stroke-width="2"/><path d="M926 247v-26m24 26v-47m24 47v-33m24 33v-67" stroke="#A78BFA" stroke-width="9" stroke-linecap="round"/></g>'
-body+='<path d="M844 156h52m-9-8 9 8-9 8" stroke="#60A5FA" stroke-width="2" fill="none"/><circle class="pulse" cx="870" cy="156" r="5" fill="#93C5FD"/>'
-write('motion-header.svg',1180,430,'Pruthvi Raj Pudi — Data Analytics and Data Engineering portfolio.',body,animated=True)
+def theme_header(theme, ink, muted, grid, blue, violet):
+ body=MOTION
+ body+=f'<g opacity=".55"><path d="M694 44h410M694 110h410M694 176h410M694 242h410" stroke="{grid}" stroke-width="1"/><path d="M790 18v260M900 18v260M1010 18v260" stroke="{grid}" stroke-width="1"/></g>'
+ body+=f'<g class="rise">'+txt(68,82,'PRUTHVI RAJ PUDI',58,ink,700)+f'</g>'
+ body+=f'<g class="rise d1">'+txt(70,132,'Data Analytics  ·  Data Engineering',24,muted,500)+f'</g>'
+ body+=f'<g class="rise d2">'+txt(70,180,'Building clear paths from operational data to reporting.',20,muted,400)+f'</g>'
+ body+=f'<g class="rise d3">'+txt(70,234,'E-commerce  /  Sales  /  Workforce',15,blue,700)+f'</g>'
+ for y, color, delay in [(86,blue,''),(156,violet,' l2'),(226,blue,' l3')]:
+  body+=f'<path d="M690 {y}h370" stroke="{grid}" stroke-width="2"/><g class="lane{delay}"><circle cx="746" cy="{y}" r="9" fill="{color}"/><path d="M765 {y}h102" stroke="{color}" stroke-width="3" stroke-linecap="round"/><circle class="glow" cx="885" cy="{y}" r="6" fill="{color}"/></g>'
+ body+=f'<path class="draw" d="M1034 66v180" stroke="{blue}" stroke-width="4" fill="none"/><path d="M1008 246h52" stroke="{violet}" stroke-width="4"/><circle cx="1034" cy="66" r="8" fill="{ink}" stroke="{blue}" stroke-width="4"/>'
+ write(f'motion-header-{theme}.svg',1180,300,'Pruthvi Raj Pudi — Data Analytics and Data Engineering portfolio.',body,animated=True)
+
+theme_header('light','#0F172A','#475569','#D9E2EC','#2563EB','#7C3AED')
+theme_header('dark','#F8FAFC','#A6B4CB','#28354D','#60A5FA','#A78BFA')
+
+def pill_icon(kind, color):
+ if kind=='resume': return f'<path d="M15 11h14l6 6v20H15zM29 11v7h7M20 25h10m-10 5h10" fill="none" stroke="{color}" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>'
+ if kind=='email': return f'<rect x="13" y="15" width="24" height="18" rx="3" fill="none" stroke="{color}" stroke-width="2"/><path d="m15 18 10 8 10-8" fill="none" stroke="{color}" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>'
+ if kind=='linkedin': return f'<rect x="14" y="12" width="23" height="23" rx="3" fill="none" stroke="{color}" stroke-width="2"/><circle cx="20" cy="19" r="1.8" fill="{color}"/><path d="M19 24v7m6-7v7m0-4c0-4 7-4 7 0v4" fill="none" stroke="{color}" stroke-width="2" stroke-linecap="round"/>'
+ return f'<rect x="13" y="13" width="24" height="20" rx="3" fill="none" stroke="{color}" stroke-width="2"/><path d="m20 19-4 4 4 4m10-8 4 4-4 4" fill="none" stroke="{color}" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>'
 
 def pill(name,label,width,accent):
  body=f'<rect x="1" y="1" width="{width-2}" height="46" rx="23" fill="#101827" stroke="#334155"/>'
- body+=f'<circle cx="24" cy="24" r="6" fill="{accent}"/>'+txt(40,30,label,16,'#F8FAFC',600)+txt(width-20,30,'↗',17,'#CBD5E1',600,'middle')
+ body+=pill_icon(name,accent)+txt(48,30,label,16,'#F8FAFC',600)
  write(f'pills/{name}.svg',width,48,label+' link',body)
 
 pill('resume','Resume',150,'#38BDF8')
@@ -136,14 +145,42 @@ pill('linkedin','LinkedIn',158,'#60A5FA')
 pill('portfolio','Portfolio',170,'#F8FAFC')
 
 SKILLS=[('python','Python'),('microsoft-azure','Azure'),('snowflake-icon','Snowflake'),('dbt-icon','dbt'),('sql-server','SQL Server'),('postgresql','PostgreSQL'),('microsoft-power-bi','Power BI'),('excel','Excel'),('pandas-icon','pandas'),('looker-icon','Looker Studio'),('git-icon','Git'),('github-icon','GitHub')]
-def skill_chips(offset):
- body=''
- for i,(name,label) in enumerate(SKILLS):
-  x=offset+i*168
-  body+=f'<g><rect x="{x}" y="20" width="150" height="62" rx="13" fill="#162239" stroke="#2A3A55"/>'
-  body+=icon(name,x+16,37,28,'ribbon'+str(offset)+'-'+str(i))+txt(x+54,58,label,16,'#E2E8F0',600)+'</g>'
- return body
+def parallel_skills(theme, ink, muted, grid, chip):
+ body=MOTION+f'<g opacity=".8"><path d="M18 47h1144M18 107h1144M18 167h1144" stroke="{grid}" stroke-width="2"/></g>'
+ for lane in range(3):
+  body+=f'<g class="lane l{lane+1}">'
+  for slot,(name,label) in enumerate(SKILLS[lane*4:(lane+1)*4]):
+   x=75+slot*260;y=lane*60+20
+   body+=f'<circle cx="{x}" cy="{y+27}" r="20" fill="{chip}" stroke="{grid}"/>'
+   body+=icon(name,x-11,y+16,22,'parallel-'+theme+'-'+str(lane)+'-'+str(slot))
+   body+=txt(x+31,y+33,label,17,ink,600)
+  body+='</g>'
+ write(f'motion-skills-{theme}.svg',1180,214,'Parallel toolkit lanes with Python, Azure, Snowflake, dbt, SQL Server, PostgreSQL, Power BI, Excel, pandas, Looker Studio, Git, and GitHub.',body,animated=True)
 
-body=PREMIUM_MOTION+'<clipPath id="ribbon-clip"><rect width="1180" height="102" rx="14"/></clipPath><rect width="1180" height="102" rx="14" fill="#101827"/>'
-body+='<g clip-path="url(#ribbon-clip)"><g class="marquee">'+skill_chips(0)+skill_chips(2016)+'</g></g>'
-write('motion-skills.svg',1180,102,'Scrolling toolkit: Python, Azure, Snowflake, dbt, SQL Server, PostgreSQL, Power BI, Excel, pandas, Looker Studio, Git, and GitHub.',body,animated=True)
+parallel_skills('light','#1E293B','#64748B','#D9E2EC','#F8FAFC')
+parallel_skills('dark','#E2E8F0','#A6B4CB','#28354D','#162239')
+
+def project_tracks(theme, ink, muted, grid, colors):
+ body=MOTION
+ names=[('Olist pipeline','Python · Azure · Snowflake · dbt'),('Sales analysis','Excel · targets · profit'),('Sales warehouse','SQL Server · quality checks'),('HR dashboard','Power BI · sample workforce data')]
+ for i,((label,detail),color) in enumerate(zip(names,colors)):
+  y=34+i*66
+  body+=f'<path d="M240 {y}h860" stroke="{grid}" stroke-width="2"/><g class="lane l{(i%3)+1}"><circle cx="280" cy="{y}" r="8" fill="{color}"/><path d="M304 {y}h96" stroke="{color}" stroke-width="3" stroke-linecap="round"/><circle class="glow" cx="418" cy="{y}" r="5" fill="{color}"/></g>'
+  body+=txt(24,y+5,label,19,ink,700)+txt(470,y+5,detail,16,muted,500)
+ write(f'projects-parallel-{theme}.svg',1180,266,'Four equal project tracks: Olist pipeline, sales analysis, sales warehouse, and HR dashboard.',body,animated=True)
+
+project_tracks('light','#1E293B','#64748B','#D9E2EC',['#2563EB','#C0841A','#A16207','#0F9D58'])
+project_tracks('dark','#F1F5F9','#A6B4CB','#28354D',['#60A5FA','#FACC15','#F59E0B','#34D399'])
+
+def activity_motion(theme, ink, muted, grid, blue, violet):
+ body=MOTION+f'<path d="M20 152h1140M20 98h1140M20 44h1140" stroke="{grid}" stroke-width="1"/>'
+ heights=[35,72,51,99,64,118,82,138,104,154]
+ for i,height in enumerate(heights):
+  x=72+i*104
+  color=blue if i%2==0 else violet
+  body+=f'<path class="draw" style="animation-delay:{i*.05}s" d="M{x} 166v-{height}" stroke="{color}" stroke-width="18" stroke-linecap="round"/>'
+ body+=txt(22,196,'ACTIVITY MOTION',15,muted,700)+txt(1158,196,'Live GitHub metrics below',15,muted,500,'end')
+ write(f'activity-motion-{theme}.svg',1180,214,'Animated activity bars that introduce the live GitHub account metrics below.',body,animated=True)
+
+activity_motion('light','#1E293B','#64748B','#D9E2EC','#2563EB','#7C3AED')
+activity_motion('dark','#F1F5F9','#A6B4CB','#28354D','#60A5FA','#A78BFA')
