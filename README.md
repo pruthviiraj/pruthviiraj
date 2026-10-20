@@ -1,17 +1,14 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-visual-dark.svg" />
-  <img src="./assets/profile-visual-light.svg" width="100%" alt="Abstract data workflow from sources to models and reporting." />
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/previews/static/motion-header.svg" />
+  <img src="./assets/motion-header.svg" width="100%" alt="Pruthvi Raj Pudi — Data Analytics and Data Engineering portfolio." />
 </picture>
 
-<h1 align="center">Pruthvi Raj Pudi</h1>
-<p align="center">Data Analytics &nbsp;·&nbsp; Data Engineering</p>
 <p align="center">
-  <a href="./assets/PruthviRajPudiResume.pdf">Resume</a> &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/in/pruthvirajpudi/">LinkedIn</a> &nbsp; · &nbsp;
-  <a href="mailto:pruthvirajpudi@gmail.com">Email</a>
+  <a href="./assets/PruthviRajPudiResume.pdf"><img src="./assets/pills/resume.svg" height="42" alt="Open resume" /></a>&nbsp;
+  <a href="mailto:pruthvirajpudi@gmail.com"><img src="./assets/pills/email.svg" height="42" alt="Send email" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/pruthvirajpudi/"><img src="./assets/pills/linkedin.svg" height="42" alt="Open LinkedIn" /></a>&nbsp;
+  <a href="https://github.com/pruthviiraj"><img src="./assets/pills/github.svg" height="42" alt="Open GitHub portfolio" /></a>
 </p>
-
-> Data projects in e-commerce, sales, and workforce reporting.
 
 ## About
 
@@ -45,17 +42,10 @@ Four Power BI pages for workforce and employee-turnover analysis across 1,470 sa
 
 ## Toolkit
 
-**Data preparation** &nbsp; <img src="./assets/icons/python.svg" width="20" alt="Python" /> Python &nbsp;·&nbsp; <img src="./assets/icons/pandas-icon.svg" width="20" alt="pandas" /> pandas
-
-**Cloud &amp; warehouse** &nbsp; <img src="./assets/icons/microsoft-azure.svg" width="20" alt="Azure" /> Azure &nbsp;·&nbsp; <img src="./assets/icons/snowflake-icon.svg" width="20" alt="Snowflake" /> Snowflake
-
-**Databases** &nbsp; <img src="./assets/icons/sql-server.svg" width="20" alt="SQL Server" /> SQL Server &nbsp;·&nbsp; <img src="./assets/icons/postgresql.svg" width="20" alt="PostgreSQL" /> PostgreSQL
-
-**Reporting** &nbsp; <img src="./assets/icons/microsoft-power-bi.svg" width="20" alt="Power BI" /> Power BI &nbsp;·&nbsp; <img src="./assets/icons/excel.svg" width="20" alt="Excel" /> Excel
-
-**Modeling &amp; exploration** &nbsp; <img src="./assets/icons/dbt-icon.svg" width="20" alt="dbt" /> dbt &nbsp;·&nbsp; <img src="./assets/icons/looker-icon.svg" width="20" alt="Looker Studio" /> Looker Studio
-
-**Version control** &nbsp; <img src="./assets/icons/git-icon.svg" width="20" alt="Git" /> Git &nbsp;·&nbsp; <img src="./assets/icons/github-icon.svg" width="20" alt="GitHub" /> GitHub
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/previews/static/motion-skills.svg" />
+  <img src="./assets/motion-skills.svg" width="100%" alt="Scrolling toolkit: Python, Azure, Snowflake, dbt, SQL Server, PostgreSQL, Power BI, Excel, pandas, Looker Studio, Git, and GitHub." />
+</picture>
 
 ## GitHub activity
 

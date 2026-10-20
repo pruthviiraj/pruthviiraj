@@ -100,3 +100,50 @@ for theme, background, line, accent, muted in [
  body+=f'<path d="M182 85h73M925 165h73" stroke="{line}" stroke-width="2"/>'
  body+=txt(218,80,'SOURCE',16,muted,600,'middle')+txt(620,80,'MODELS',16,muted,600,'middle')+txt(962,187,'REPORTING',16,muted,600,'middle')
  write(f'profile-visual-{theme}.svg',1180,250,'Abstract data workflow from sources to models and reporting.',body)
+
+# Motion system: a controlled 600ms header reveal and one continuous skill
+# ribbon. Text outside these visuals remains native Markdown for accessibility.
+PREMIUM_MOTION="""<style>
+@keyframes rise{0%{opacity:0;transform:translateY(18px)}100%{opacity:1;transform:translateY(0)}}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-7px)}}
+@keyframes blink{0%,100%{opacity:.35}50%{opacity:1}}
+@keyframes marquee{from{transform:translateX(0)}to{transform:translateX(-2016px)}}
+.rise{animation:rise .6s cubic-bezier(.2,0,0,1) both}.d1{animation-delay:.10s}.d2{animation-delay:.20s}.d3{animation-delay:.30s}
+.float{animation:float 4s cubic-bezier(.4,0,.2,1) infinite}.pulse{animation:blink 2.4s ease-in-out infinite}
+.marquee{animation:marquee 24s linear infinite}
+@media(prefers-reduced-motion:reduce){.rise,.float,.pulse,.marquee{animation:none!important;transform:none;opacity:1}}
+</style>"""
+
+body=PREMIUM_MOTION+'<rect width="1180" height="430" rx="22" fill="#101827"/><path d="M0 350C220 280 350 460 580 370S940 270 1180 350V430H0Z" fill="#15223A"/>'
+body+='<g opacity=".55"><path d="M650 70h430M650 150h430M650 230h430M650 310h430" stroke="#263651" stroke-width="1"/><path d="M760 40v300M870 40v300M980 40v300" stroke="#263651" stroke-width="1"/></g>'
+body+=txt(70,74,'DATA PORTFOLIO',15,'#93C5FD',700)+f'<g class="rise">'+txt(70,166,'Pruthvi Raj Pudi',58,'#F8FAFC',700)+f'</g>'
+body+=f'<g class="rise d1">'+txt(70,218,'Data Analytics  ·  Data Engineering',24,'#CBD5E1',500)+f'</g>'
+body+=f'<g class="rise d2">'+txt(70,270,'From operational data to clear reporting.',22,'#A6B4CB',400)+f'</g>'
+body+=f'<g class="rise d3">'+txt(70,332,'E-commerce  /  Sales  /  Workforce',16,'#93C5FD',600)+f'</g>'
+body+='<g class="float"><rect x="706" y="107" width="138" height="98" rx="16" fill="#15223A" stroke="#60A5FA" stroke-width="2"/><circle cx="744" cy="143" r="12" fill="#60A5FA"/><path d="M768 137h46m-46 16h31" stroke="#CBD5E1" stroke-width="5" stroke-linecap="round"/></g>'
+body+='<g class="float" style="animation-delay:.5s"><rect x="895" y="175" width="150" height="108" rx="16" fill="#15223A" stroke="#A78BFA" stroke-width="2"/><path d="M926 247v-26m24 26v-47m24 47v-33m24 33v-67" stroke="#A78BFA" stroke-width="9" stroke-linecap="round"/></g>'
+body+='<path d="M844 156h52m-9-8 9 8-9 8" stroke="#60A5FA" stroke-width="2" fill="none"/><circle class="pulse" cx="870" cy="156" r="5" fill="#93C5FD"/>'
+write('motion-header.svg',1180,430,'Pruthvi Raj Pudi — Data Analytics and Data Engineering portfolio.',body,animated=True)
+
+def pill(name,label,width,accent):
+ body=f'<rect x="1" y="1" width="{width-2}" height="46" rx="23" fill="#101827" stroke="#334155"/>'
+ body+=f'<circle cx="24" cy="24" r="6" fill="{accent}"/>'+txt(40,30,label,16,'#F8FAFC',600)+txt(width-20,30,'↗',17,'#CBD5E1',600,'middle')
+ write(f'pills/{name}.svg',width,48,label+' link',body)
+
+pill('resume','Resume',150,'#38BDF8')
+pill('email','Email',136,'#A78BFA')
+pill('linkedin','LinkedIn',158,'#60A5FA')
+pill('github','GitHub',150,'#F8FAFC')
+
+SKILLS=[('python','Python'),('microsoft-azure','Azure'),('snowflake-icon','Snowflake'),('dbt-icon','dbt'),('sql-server','SQL Server'),('postgresql','PostgreSQL'),('microsoft-power-bi','Power BI'),('excel','Excel'),('pandas-icon','pandas'),('looker-icon','Looker Studio'),('git-icon','Git'),('github-icon','GitHub')]
+def skill_chips(offset):
+ body=''
+ for i,(name,label) in enumerate(SKILLS):
+  x=offset+i*168
+  body+=f'<g><rect x="{x}" y="20" width="150" height="62" rx="13" fill="#162239" stroke="#2A3A55"/>'
+  body+=icon(name,x+16,37,28,'ribbon'+str(offset)+'-'+str(i))+txt(x+54,58,label,16,'#E2E8F0',600)+'</g>'
+ return body
+
+body=PREMIUM_MOTION+'<clipPath id="ribbon-clip"><rect width="1180" height="102" rx="14"/></clipPath><rect width="1180" height="102" rx="14" fill="#101827"/>'
+body+='<g clip-path="url(#ribbon-clip)"><g class="marquee">'+skill_chips(0)+skill_chips(2016)+'</g></g>'
+write('motion-skills.svg',1180,102,'Scrolling toolkit: Python, Azure, Snowflake, dbt, SQL Server, PostgreSQL, Power BI, Excel, pandas, Looker Studio, Git, and GitHub.',body,animated=True)
