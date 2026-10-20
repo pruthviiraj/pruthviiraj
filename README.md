@@ -45,14 +45,19 @@ Four Power BI pages for workforce and employee-turnover analysis across 1,470 sa
 
 ## Toolkit
 
-| Focus | Tools |
-| :-- | :-- |
-| Data preparation | <img src="./assets/icons/python.svg" width="20" alt="Python" /> Python &nbsp; <img src="./assets/icons/pandas-icon.svg" width="20" alt="pandas" /> pandas |
-| Cloud & warehouse | <img src="./assets/icons/microsoft-azure.svg" width="20" alt="Azure" /> Azure &nbsp; <img src="./assets/icons/snowflake-icon.svg" width="20" alt="Snowflake" /> Snowflake |
-| Databases | <img src="./assets/icons/sql-server.svg" width="20" alt="SQL Server" /> SQL Server &nbsp; <img src="./assets/icons/postgresql.svg" width="20" alt="PostgreSQL" /> PostgreSQL |
-| Reporting | <img src="./assets/icons/microsoft-power-bi.svg" width="20" alt="Power BI" /> Power BI &nbsp; <img src="./assets/icons/excel.svg" width="20" alt="Excel" /> Excel |
-| Transformation | <img src="./assets/icons/dbt-icon.svg" width="20" alt="dbt" /> dbt &nbsp; <img src="./assets/icons/looker-icon.svg" width="20" alt="Looker Studio" /> Looker Studio |
-| Workflow | <img src="./assets/icons/git-icon.svg" width="20" alt="Git" /> Git &nbsp; <img src="./assets/icons/github-icon.svg" width="20" alt="GitHub" /> GitHub |
+<table width="100%">
+  <thead>
+    <tr><th align="left">Focus</th><th align="left">Tools</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Data preparation</td><td><img src="./assets/icons/python.svg" width="20" alt="Python" /> Python &nbsp; <img src="./assets/icons/pandas-icon.svg" width="20" alt="pandas" /> pandas</td></tr>
+    <tr><td>Cloud &amp; warehouse</td><td><img src="./assets/icons/microsoft-azure.svg" width="20" alt="Azure" /> Azure &nbsp; <img src="./assets/icons/snowflake-icon.svg" width="20" alt="Snowflake" /> Snowflake</td></tr>
+    <tr><td>Databases</td><td><img src="./assets/icons/sql-server.svg" width="20" alt="SQL Server" /> SQL Server &nbsp; <img src="./assets/icons/postgresql.svg" width="20" alt="PostgreSQL" /> PostgreSQL</td></tr>
+    <tr><td>Reporting</td><td><img src="./assets/icons/microsoft-power-bi.svg" width="20" alt="Power BI" /> Power BI &nbsp; <img src="./assets/icons/excel.svg" width="20" alt="Excel" /> Excel</td></tr>
+    <tr><td>Modeling &amp; exploration</td><td><img src="./assets/icons/dbt-icon.svg" width="20" alt="dbt" /> dbt &nbsp; <img src="./assets/icons/looker-icon.svg" width="20" alt="Looker Studio" /> Looker Studio</td></tr>
+    <tr><td>Version control</td><td><img src="./assets/icons/git-icon.svg" width="20" alt="Git" /> Git &nbsp; <img src="./assets/icons/github-icon.svg" width="20" alt="GitHub" /> GitHub</td></tr>
+  </tbody>
+</table>
 
 ## GitHub activity
 
