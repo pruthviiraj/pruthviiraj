@@ -80,3 +80,23 @@ for mobile in [False,True]:
    body+=icon(name,cx-size/2+7,y+71,size-14,'stack-'+str(i)+'-'+str(j))
    body+=txt(cx,y+153,tool,30 if mobile else 26,'muted',400,'middle')
  write('previews/stack-mobile.svg' if mobile else 'previews/stack.svg',w,h,'Reporting: Power BI and Excel. Programming: Python and pandas. Databases: SQL Server and PostgreSQL. Cloud and warehouse: Azure and Snowflake. Analytics tools: dbt and Looker Studio. Version control: Git and GitHub.',body)
+
+# A quiet visual anchor for the profile. The README keeps all portfolio copy as
+# native Markdown so it remains accessible and scales with GitHub's interface.
+for theme, background, line, accent, muted in [
+ ('light', '#F8FAFC', '#D9E2EC', '#2563EB', '#64748B'),
+ ('dark', '#0D1424', '#28354D', '#60A5FA', '#A6B4CB'),
+]:
+ body=f'<rect width="1180" height="250" rx="16" fill="{background}"/>'
+ body+=f'<path d="M148 125H1032" stroke="{line}" stroke-width="2"/>'
+ body+=f'<path d="M319 125H469M711 125H861" stroke="{accent}" stroke-width="2"/>'
+ for x, radius, fill in [(148,38,accent),(498,50,background),(741,50,background),(1032,38,accent)]:
+  body+=f'<circle cx="{x}" cy="125" r="{radius}" fill="{fill}" stroke="{accent}" stroke-width="2"/>'
+ body+=f'<circle cx="148" cy="125" r="11" fill="{background}"/><circle cx="1032" cy="125" r="11" fill="{background}"/>'
+ body+=f'<path d="M476 106h44v38h-44zM719 106h44v38h-44z" fill="none" stroke="{accent}" stroke-width="2"/>'
+ body+=f'<path d="M490 118h16m-16 12h16m227-12h16m-16 12h16" stroke="{accent}" stroke-width="2" stroke-linecap="round"/>'
+ for x, height in [(949,26),(967,48),(985,34)]:
+  body+=f'<path d="M{x} {151-height}v{height}" stroke="{accent}" stroke-width="7" stroke-linecap="round"/>'
+ body+=f'<path d="M182 85h73M925 165h73" stroke="{line}" stroke-width="2"/>'
+ body+=txt(218,80,'SOURCE',16,muted,600,'middle')+txt(620,80,'MODELS',16,muted,600,'middle')+txt(962,187,'REPORTING',16,muted,600,'middle')
+ write(f'profile-visual-{theme}.svg',1180,250,'Abstract data workflow from sources to models and reporting.',body)
