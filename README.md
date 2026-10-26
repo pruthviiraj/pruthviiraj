@@ -1,169 +1,59 @@
-<div align="center">
+<picture>
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/previews/static/motion-header-dark.svg" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/previews/static/motion-header-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/motion-header-dark.svg" />
+  <img src="./assets/motion-header-light.svg" width="100%" alt="Pruthvi Raj Pudi — Data Analytics and Data Engineering portfolio." />
+</picture>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=2E75B6&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Pruthvi+Raj+Pudi+%F0%9F%91%8B;Data+Analyst+%7C+M.S.+Data+Science;SQL+%C2%B7+Power+BI+%C2%B7+Excel+%C2%B7+Python;I+make+data+honest+and+reports+reliable.)](https://git.io/typing-svg)
+<p align="center">
+  <a href="./assets/PruthviRajPudiResume.pdf"><img src="./assets/pills/resume.svg" height="42" alt="Open resume" /></a>&nbsp;
+  <a href="mailto:pruthvirajpudi@gmail.com"><img src="./assets/pills/email.svg" height="42" alt="Send email" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/pruthvirajpudi/"><img src="./assets/pills/linkedin.svg" height="42" alt="Open LinkedIn" /></a>&nbsp;
+  <a href="https://github.com/pruthviiraj"><img src="./assets/pills/portfolio.svg" height="42" alt="Open portfolio" /></a>
+</p>
 
-<br/>
+## About
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pruthviiraj)
-[![Portfolio](https://img.shields.io/badge/Notion%20Portfolio-1F3864?style=for-the-badge&logo=notion&logoColor=white)](https://pruthvirajpudi.notion.site/pruthvi-raj-pudi)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pruthvirajpudi@gmail.com)
-[![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-238636?style=for-the-badge)](https://linkedin.com/in/pruthviiraj)
+- **Focus** — Data analytics and data engineering for e-commerce, sales and workforce data.
+- **Builds** — SQL, Python and BI projects that take operational data through cleaning, modeling and reporting.
+- **Background** — M.S. in Data Science from Pace University, with 3+ years in operations at Amazon and Accenture.
+- **Work style** — Track service targets, manage cases, and check data quality before reporting results.
 
-</div>
+## Toolkit
 
----
+<picture>
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/previews/static/motion-skills-dark.svg" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/previews/static/motion-skills-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/motion-skills-dark.svg" />
+  <img src="./assets/motion-skills-light.svg" width="100%" alt="Parallel toolkit lanes with Python, Azure, Snowflake, dbt, SQL Server, PostgreSQL, Power BI, Excel, pandas, Looker Studio, Git, and GitHub." />
+</picture>
 
-### About Me
+## GitHub activity
 
-M.S. Data Science · Pace University · GPA 3.79 · Jersey City, NJ
+<picture>
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/previews/static/activity-motion-dark.svg" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/previews/static/activity-motion-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-motion-dark.svg" />
+  <img src="./assets/activity-motion-light.svg" width="100%" alt="Animated activity bars that introduce the live GitHub account metrics below." />
+</picture>
 
-Over 3 years in operations at **Amazon** and **Accenture** SLA tracking, case management, and data quality auditing. That background taught me where data breaks and why reports lie.
+<p align="center">
+  <a href="https://github.com/pruthviiraj"><img src="https://github-readme-stats.vercel.app/api?username=pruthviiraj&amp;show_icons=true&amp;hide_rank=true&amp;hide=stars&amp;bg_color=111827&amp;title_color=93c5fd&amp;text_color=cbd5e1&amp;icon_color=a5b4fc&amp;border_color=334155&amp;border_radius=12&amp;custom_title=GitHub+Overview&amp;card_width=450&amp;line_height=31&amp;disable_animations=true" width="360" height="160" alt="GitHub commits, pull requests, issues and contributions" /></a>
+  <a href="https://github.com/pruthviiraj"><img src="https://streak-stats.demolab.com?user=pruthviiraj&amp;background=111827&amp;border=334155&amp;stroke=334155&amp;ring=818CF8&amp;fire=93C5FD&amp;currStreakNum=F1F5F9&amp;sideNums=F1F5F9&amp;currStreakLabel=93C5FD&amp;sideLabels=CBD5E1&amp;dates=94A3B8&amp;border_radius=12&amp;card_width=450&amp;card_height=200&amp;disable_animations=true" width="360" height="160" alt="GitHub contribution totals and streaks" /></a>
+</p>
 
-Since my Master's, I've been building the analytical toolkit: **SQL · Power BI · Excel (Power Query, Power Pivot, DAX) · Python · ETL**
+## Selected projects
 
-> *If a number doesn't add up, I want to know why before anyone else does.*
+<picture>
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/previews/static/projects-parallel-dark.svg" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/previews/static/projects-parallel-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/projects-parallel-dark.svg" />
+  <img src="./assets/projects-parallel-light.svg" width="100%" alt="Four equal project tracks: Olist pipeline, sales analysis, sales warehouse, and HR dashboard." />
+</picture>
 
-Targeting **Data Analyst**, **Business Analyst**, and **Operations Analyst** roles.
+1. [**Olist marketplace data pipeline**](https://github.com/pruthviiraj/olist-marketplace-pipeline) — Python ingestion and ten dbt models that move e-commerce data into Snowflake. Validation and reporting are in progress.
+2. [**Sales &amp; financial performance**](https://github.com/pruthviiraj/Excel-Projects/tree/main/Sales%20%26%20Financial%20Performance%20Analysis) — Eight Excel reports covering sales, targets and profit; the 2021 report shows a $54.9M shortfall against target.
+3. [**CRM &amp; ERP sales warehouse**](https://github.com/pruthviiraj/crm-and-erp-sales-data-warehouse-project) — Customer and sales data combined in SQL Server, with missing-value and duplicate checks.
+4. [**HR analytics dashboard**](https://app.powerbi.com/view?r=eyJrIjoiMmQxMTk5YTktNzg4Yy00N2VkLTk5MDItNjg1MjU0NDIzMzliIiwidCI6ImIyN2RhZWIzLThjZmUtNDFiNi1iYTNhLWY1MzRhNGMzN2ZhNCJ9) — Four Power BI pages for workforce and employee-turnover analysis across 1,470 sample employee records.
 
-<br clear="right"/>
-
----
-
-## 🛠️ Tech Stack
-
-**Query & Databases**
-
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=flat-square)
-
-**BI & Visualization**
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=google&logoColor=white)
-![QuickSight](https://img.shields.io/badge/Amazon%20QuickSight-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-
-**Spreadsheets & Reporting**
-
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white)
-
-**Programming**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-**AI & Productivity**
-
-![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-1F3864?style=flat-square&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Monday.com](https://img.shields.io/badge/Monday.com-FF3750?style=flat-square&logo=monday.com&logoColor=white)
-
----
-
-## 📂 Featured Projects
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <strong>📊 HR Analytics Dashboard — Atlas Labs</strong><br/><br/>
-      4-page Power BI dashboard on 1,470 employees.
-      Star Schema · 5 tables · 16 DAX measures.
-      Diagnosed 16.1% attrition — overtime flagged as
-      primary driver, Sales Reps at 40% attrition.<br/><br/>
-      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black"/>
-      <img src="https://img.shields.io/badge/DAX-1F3864?style=flat-square&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Star%20Schema-2E75B6?style=flat-square&logoColor=white"/>
-      <br/><br/>
-      <a href="https://app.powerbi.com/view?r=eyJrIjoiMmQxMTk5YTktNzg4Yy00N2VkLTk5MDItNjg1MjU0NDIzMzliIiwidCI6ImIyN2RhZWIzLThjZmUtNDFiNi1iYTNhLWY1MzRhNGMzN2ZhNCJ9"><strong>▶ View Live Dashboard →</strong></a>
-    </td>
-    <td width="50%" valign="top">
-      <strong>📈 Sales & Financial Analysis — AtliQ Hardwares</strong><br/><br/>
-      8 Excel reports across 23 markets.
-      Custom fiscal calendar in Power Query.
-      Surfaced $54.9M target miss and margin compression
-      from 41.4% to 36.4% GM over 3 years.<br/><br/>
-      <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Power%20Query-217346?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Power%20Pivot-217346?style=flat-square"/>
-      <img src="https://img.shields.io/badge/DAX-1F3864?style=flat-square"/>
-      <br/><br/>
-      <a href="https://github.com/pruthviiraj/Excel-Projects"><strong>▶ View on GitHub →</strong></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>🏗️ SQL Data Warehouse — Medallion Architecture</strong><br/><br/>
-      Full data warehouse from scratch in SQL Server.
-      Bronze to Silver to Gold layers on CRM and ERP data.
-      T-SQL stored procedures with automated quality
-      checks at every layer.<br/><br/>
-      <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
-      <img src="https://img.shields.io/badge/T--SQL-CC2927?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Star%20Schema-1F3864?style=flat-square"/>
-      <img src="https://img.shields.io/badge/ETL-2E75B6?style=flat-square"/>
-      <br/><br/>
-      <a href="https://github.com/pruthviiraj/sql-data-warehouse-project"><strong>▶ View on GitHub →</strong></a>
-    </td>
-    <td width="50%" valign="top">
-      <strong>🛒 Olist E-Commerce Analytics</strong>
-      <img src="https://img.shields.io/badge/In%20Progress-FF9900?style=flat-square"/><br/><br/>
-      End-to-end project on Brazilian e-commerce data.
-      Bringing Amazon logistics context to delivery
-      performance, seller behaviour, and customer
-      satisfaction analysis. Expected Q2 2026.<br/><br/>
-      <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black"/>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=pruthviiraj&theme=transparent&hide_border=true&stroke=2E75B6&ring=2E75B6&fire=FF9900&currStreakLabel=2E75B6&sideLabels=888888&dates=888888)](https://git.io/streak-stats)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pruthviiraj&theme=minimal&bg_color=00000000&hide_border=true&color=2E75B6&line=2E75B6&point=FF9900&area=true&area_color=2E75B6&radius=6)](https://github.com/pruthviiraj)
-
-</div>
-
----
-
-## 🚀 What I'm Working On
-
-| | Project / Goal | Stack | Status | ETA |
-|---|---|---|---|---|
-| 🏗️ | Data Engineering Bootcamp | dbt · Airflow · ETL | 🔄 In Progress | Nov 2026 |
-| ☁️ | Azure Fundamentals — AZ-900 | Microsoft Azure | 🟡 Planned | Q3 2026 |
-| 🧠 | dbt Fundamentals Certification | dbt Core | 🟡 Planned | Q2 2026 |
-| 📚 | Daily SQL Practice | HackerRank · LeetCode | 🟢 Ongoing | — |
-
----
-
-<div align="center">
-
-*Seeking Data Analyst · Business Analyst · Operations Analyst roles*
-
-[![Connect on LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pruthviiraj)
-&nbsp;&nbsp;
-[![View Portfolio](https://img.shields.io/badge/View%20Portfolio-1F3864?style=for-the-badge&logo=notion&logoColor=white)](https://pruthvirajpudi.notion.site/pruthvi-raj-pudi)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=pruthviiraj&color=2E75B6&style=flat-square&label=Profile+Views)
-
-</div>
+Open to roles in data analytics and data engineering. [Get in touch](mailto:pruthvirajpudi@gmail.com).
