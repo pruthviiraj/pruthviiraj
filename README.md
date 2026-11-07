@@ -76,7 +76,7 @@ Targeting **Data Analyst**, **Business Analyst**, and **Operations Analyst** rol
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <strong>📊 HR Analytics Dashboard — Atlas Labs</strong><br/><br/>
+      <strong>📊 Workforce Analytics & Employee Retention Insights — Atlas Labs</strong><br/><br/>
       4-page Power BI dashboard on 1,470 employees.
       Star Schema · 5 tables · 16 DAX measures.
       Diagnosed 16.1% attrition — overtime flagged as
@@ -103,7 +103,7 @@ Targeting **Data Analyst**, **Business Analyst**, and **Operations Analyst** rol
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <strong>🏗️ SQL Data Warehouse — Medallion Architecture</strong><br/><br/>
+      <strong>🏗️ CRM and ERP Sales Data Warehouse — Medallion Architecture</strong><br/><br/>
       Full data warehouse from scratch in SQL Server.
       Bronze to Silver to Gold layers on CRM and ERP data.
       T-SQL stored procedures with automated quality
@@ -117,14 +117,11 @@ Targeting **Data Analyst**, **Business Analyst**, and **Operations Analyst** rol
     </td>
     <td width="50%" valign="top">
       <strong>🛒 Olist E-Commerce Analytics</strong>
-      <img src="https://img.shields.io/badge/In%20Progress-FF9900?style=flat-square"/><br/><br/>
-      End-to-end project on Brazilian e-commerce data.
-      Bringing Amazon logistics context to delivery
-      performance, seller behaviour, and customer
-      satisfaction analysis. Expected Q2 2026.<br/><br/>
+      <br/><br/>
+      ELT pipeline on 99,441 Olist orders: Python to Azure Blob Storage, Snowflake, and dbt, with 135 passing checks.<br/><br/>
       <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square"/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Snowflake-F2C811?style=flat-square&logo=power-bi&logoColor=black"/>
     </td>
   </tr>
 </table>
