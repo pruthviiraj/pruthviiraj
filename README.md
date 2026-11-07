@@ -4,7 +4,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pruthviiraj)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pruthvirajpudi)
 [![Portfolio](https://img.shields.io/badge/Notion%20Portfolio-1F3864?style=for-the-badge&logo=notion&logoColor=white)](https://pruthvirajpudi.notion.site/pruthvi-raj-pudi)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pruthvirajpudi@gmail.com)
 [![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-238636?style=for-the-badge)](https://linkedin.com/in/pruthviiraj)
